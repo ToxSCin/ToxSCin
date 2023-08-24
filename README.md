@@ -18,8 +18,10 @@
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <div>
+  <center>
   <h4>🏆 Github Profile Renato</h4>
   <img src="https://github-profile-trophy.vercel.app/?username=ToxSCin&column=7"/>
+<center/>
 </div>
 
  </center>
