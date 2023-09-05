@@ -4,7 +4,7 @@
 <h3>
   ⭐- 3° ano de Desenvolvimento de Sistemas na ETEC Joaquim Ferreira do Amaral
 </h3> 
-  <hr>
+  
 
 
 ---
